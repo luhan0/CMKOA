@@ -1,8 +1,6 @@
 
 # Centerless Multi-View K-Means Based on The Adjacency Matrix
 
-## Review2 & Review3
-
 ### Effect of parameter $r$
 
 we change r in [3,10] on MSRC and ORL datasets, and for a fixed r, we adjust other parameters to find a great result and record in Fig.(1)
@@ -12,8 +10,6 @@ we change r in [3,10] on MSRC and ORL datasets, and for a fixed r, we adjust oth
     <img src="./results/ORL-r.png"  width="500" />
 </figure>
 <div align='center'> Fig.(1) Clustering performance vs. r on MSRC and ORL datasets  </div> 
-
-## Review2
 
 ### Experiment of the computational complexity 
 
