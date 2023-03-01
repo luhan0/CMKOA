@@ -7,5 +7,5 @@ This is a demo of our paper.
 
 ### run
 ```
-main.m
+CMKOA.m
 ```
