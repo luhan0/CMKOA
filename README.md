@@ -1,6 +1,6 @@
 
 # Centerless Multi-View K-Means Based on The Adjacency Matrix
-This is a demo of our paper.
+This is a demo of our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26075).
 
 ### requirments
 - MATLAB R2021a
